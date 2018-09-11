@@ -19,6 +19,8 @@ To fetch, build, and install the binary into your `$GOPATH`, run:
 $ go get github.com/oatberry/partytube
 ```
 
+Alternatively, an Arch Linux PKGBUILD is available in the Arch User Repository: [`partytube-git`](https://aur.archlinux.org/packages/partytube-git)
+
 ## Usage
 1. Run the `partytube` binary
 1. Connect to `partytube` using a program like netcat, for example:
